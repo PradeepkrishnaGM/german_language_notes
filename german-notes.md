@@ -30,6 +30,7 @@ regular verbs.
 
 Eg. Sein (to be):
 
+| Personal Pronoun | Conjugation (sein) |
 |---|---|
 | ich | bin |
 | du | bist |
