@@ -30,6 +30,7 @@ regular verbs.
 
 Eg. Sein (to be):
 
+|---|---|
 | ich | bin |
 | du | bist |
 | er / sie / es | ist |
