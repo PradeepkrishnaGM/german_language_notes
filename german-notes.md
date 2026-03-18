@@ -133,31 +133,28 @@ Impersonal verbs are verbs that can **only** be used with 'es'.
 
 ## 3 Cases
 
-> Articles and possessive pronouns change according to each case.
+Articles and possessive pronouns change according to each case.
 
 ### 3.1 Nominativ:
 
-> Nominative refers to the subject of the sentence.
-
-> Articles in nominative are: der, die or das and ein or eine.
+- Nominative refers to the subject of the sentence.
+- Articles in nominative are: *der*, *die* or *das* and *ein* or *eine*.
 
 ### 3.2 Akkusativ:
 
-> Accusative refers to the direct object (the object that the subject acts on).
+Accusative refers to **the direct object** (the object that the subject acts on).
 
-- Ex: Die Frau(subj.) kauft den Apfel (dir. obj.).
+- Ex: Die Frau(subj.) kauft den Apfel (dir. obj.). (The woman is buying the apple.)
 
-(The woman is buying the apple.)
-
-> The only article that changes in the accusative case is der to become den, hence
-ein also changes to become einen and kein to keinen. Fem. and Neut. articles and
+> The only article that changes in the accusative case is *der* to become *den*, hence
+*ein* also changes to become *einen* and *kein* to *keinen*. Fem. and Neut. articles and
 their possessive pronouns remain unchanged.
 
-Personal & (masc.) possessive pronouns in accusative:
+Personal & **(masc.)** possessive pronouns in **accusative**:
 
 | Nominativ | Personal<br>(akk.) | Possessiv<br>(akk.) |
 | --- | --- | --- |
-| Ich | Mich | meinen |
+| Ich | Mich | mein**en** |
 | Du | Dich | deinen |
 | Er | ihn | seinen |
 | sie | sie | ihren |
