@@ -209,7 +209,7 @@ majority of verbs take accusative.
 
 ### 3.4 Genitiv:
 
-> Genitive is used to indicate possession and show who something belongs to; it answers the question "**Wessen**?" (whose). Equivalent to the apostrophe in English
+Genitive is used to indicate possession and show who something belongs to; it answers the question "**Wessen**?" (whose). Equivalent to the apostrophe in English
 i.e Jack's dog.
 
 Articles in **Genitive** change to become:
@@ -251,7 +251,7 @@ The ending of an adjective depends on several things:
 - Whether the article is definite, indefinite or not used at all.
 - Which case is used (nominative, accusative, dative, or genitive)
 
-Strong endings are used when there are <u>no articles at all.</u> As follows:
+Strong endings are used when there are **no articles at all.** As follows:
 
 | Strong<br>endings | Masculine | Neutral | Feminine | Plural |
 | --- | --- | --- | --- | --- |
@@ -260,17 +260,17 @@ Strong endings are used when there are <u>no articles at all.</u> As follows:
 | Dat. | -em<br>Blauem Tisch | -em<br>Altem Buch | -er<br>Gelber Rose | -en +n<br>Alten Büchern |
 | Gen. | -en<br>Blauen Tisch | -en<br>Alten Buch | -er<br>Gelber Rose | -er<br>Blauer Tische |
 
-> In dative, the plural nouns gain an extra -n unless they already have an -n.
+- In **dative**, the plural nouns gain an extra **-n** unless they already have an -n.
 
-> They're usually used with words like: etwas, mehr, wenig, viel, mehrer and einig
+- They're usually used with words like: etwas, mehr, wenig, viel, mehrer and einig
 or after a number. As they don't show a certain gender.
 
-- Ex:
-- Mehr schlechtes Wetter. (More bad weather) (-es from Das wetter)
-- Vier schöne Katzen. (Four beautiful cats) (-e from Die Katzen)
-- Jedes Jahr. (Every year) (-es from Das Jahr)
+**Ex:**
+- Mehr schlechtes Wetter. (*More bad weather*) (*-es from Das wetter*)
+- Vier schöne Katzen. (*Four beautiful cats*) (*-e from Die Katzen*)
+- Jedes Jahr. (*Every year*) (*-es from Das Jahr*)
 
-Weak endings are used with definite articles:
+Weak endings are used with **definite articles**:
 
 | Weak<br>Endings | Masculine | Neutral | Feminine | Plural |
 | --- | --- | --- | --- | --- |
