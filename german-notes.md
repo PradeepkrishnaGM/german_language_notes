@@ -155,33 +155,30 @@ Personal & **(masc.)** possessive pronouns in **accusative**:
 | Nominativ | Personal<br>(akk.) | Possessiv<br>(akk.) |
 | --- | --- | --- |
 | Ich | Mich | mein**en** |
-| Du | Dich | deinen |
-| Er | ihn | seinen |
-| sie | sie | ihren |
-| Es | es | seinen |
-| Wir | uns | unseren |
-| ihr | euch | eueren |
-| Sie/sie | sie | Ihren/ihren |
+| Du | Dich | dein**en** |
+| Er | ihn | sein**en** |
+| sie | sie | ihr**en** |
+| Es | es | sein**en** |
+| Wir | uns | unser**en** |
+| ihr | euch | euer**en** |
+| Sie/sie | sie | Ihr**en**/ihr**en** |
 
 ### 3.3 Dativ:
 
-> Dative refers to the indirect object (the person or thing to which something is
-done for).
+Dative refers to the **indirect object** (the person or thing to which something is done for).
 
-- Ex: Die Frau kauft dem Kind (indir. obj.) einen Apfel.
+- Ex: Die Frau kauft **dem Kind** (**indir. obj.**) einen Apfel. (*The woman is buying an apple for the child*)
 
-(The woman is buying an apple for the child)
-
-Articles in dative change to become:
+Articles in **dative** change to become:
 
 | Artikel | Bestimmte | Unbestimmte | Negation |
 | --- | --- | --- | --- |
-| Der | Dem | Einem | Keinem |
-| Die | Der | Einer | Keiner |
-| Das | Dem | Einem | Keinem |
-| Die<br>(pl.) | Den | Einen | Keinen |
+| Der | De**m** | Ein**em** | Kein**em** |
+| Die | De**r** | Ein**er** | Kein**er** |
+| Das | De**m** | Ein**em** | Kein**em** |
+| Die<br>(pl.) | De**n** | Ein**en** | Kein**en** |
 
-Personal pronouns in dative:
+Personal pronouns in **dative**:
 
 | Nominativ | Dativ |
 | --- | --- |
@@ -194,71 +191,67 @@ Personal pronouns in dative:
 | Ihr | euch |
 | Sie/sie | Ihnen |
 
-Possessive pronouns in dative:
+Possessive pronouns in **dative**:
 
 | Pronomen | Dem<br>(masc./<br>neu.) | Der<br>(fem.) | Den (pl.) |
 | --- | --- | --- | --- |
-| Ich | meinem | meiner | meinen |
-| Du | deinem | deiner | deinen |
-| Er | seinem | seiner | seinen |
-| sie | ihrem | ihrer | ihren |
-| Es | seinem | seiner | seinen |
-| Wir | unserem | unserer | unseren |
-| Ihr | eurem | euerer | eueren |
-| Sie/sie | ihrem | ihrer | ihren |
+| Ich | mein**em** | mein**er** | mein**en** |
+| Du | dein**em** | dein**er** | dein**en** |
+| Er | sein**em** | sein**er** | sein**en** |
+| sie | ihr**em** | ihr**er** | ihr**en** |
+| Es | sein**em** | sein**er** | sein**en** |
+| Wir | unser**em** | unser**er** | unser**en** |
+| Ihr | eur**em** | euer**er** | euer**en** |
+| Sie/sie | ihr**em** | ihr**er** | ihr**en** |
 
 > It's useful to know which verbs take dative and which take accusative, the
 majority of verbs take accusative.
 
 ### 3.4 Genitiv:
 
-> Genitive is used to indicate possession and show who something belongs to; it
-answers the question "Wessen?" (whose). Equivalent to the apostrophe in English
+> Genitive is used to indicate possession and show who something belongs to; it answers the question "**Wessen**?" (whose). Equivalent to the apostrophe in English
 i.e Jack's dog.
 
-Articles in Genitive change to become:
+Articles in **Genitive** change to become:
 
 | Artikel | Bestimmte | Unbestimme | Negation |
 | --- | --- | --- | --- |
-| Der/ | Des | Eines | Keines |
-| Das |   |   |   |
+| Der/Das| Des | Eines | Keines |
 | Die/<br>Die(pl.) | Der | Einer/ - | Keiner |
 
-Possessive pronouns change in Genitive as follows:
+Possessive pronouns change in **Genitive** as follows:
 
 | Pronomen | Des<br>(masc./<br>neu.) | Der<br>(fem./pl.) |
 | --- | --- | --- |
-| Ich | meines | meiner |
-| Du | deines | deiner |
-| Er | seines | seiner |
-| sie | ihres | ihrer |
-| Es | seines | seiner |
-| Wir | unseres | unserer |
-| Ihr | eures | euerer |
-| Sie/sie | ihres | ihrer |
+| Ich | mein**es** | mein**er** |
+| Du | dein**es** | dein**er** |
+| Er | sein**es** | sein**er** |
+| sie | ihr**es** | ihr**er** |
+| Es | sein**es** | sein**er** |
+| Wir | unser**es** | unser**er** |
+| Ihr | eur**es** | euer**er** |
+| Sie/sie | ihr**es** | ihr**er** |
 
-> Nouns in Genitive end with -s or -es.
+- Nouns in Genitive end with -s or -es.
 
-**Ex:** Annas Hund (Anna's dog)
+**Ex:** Annas Hund (*Anna's dog*)
 
-> Genitive can also be used like this:
+- Genitive can also be used like this:
 
-Von + Dative = Genitive
+*Von* + *Dative* = *Genitive*
 
-**Ex:** Die Form von dem Tisch Die Form des Tisches.
-
-(The shape of the table.)
+**Ex:** Die Form von dem Tisch → Die Form des Tisches. (*The shape of the table.*)
 
 ### 3.5 Adjectival endings:
 
-> The ending of an adjective depends on several things:
+The ending of an adjective depends on several things:
 
 - The following noun's gender (Fem, Masc, Neu.)
 - Whether the noun is singular or plural.
 - Whether the article is definite, indefinite or not used at all.
 - Which case is used (nominative, accusative, dative, or genitive)
 
-> Strong endings are used when there are no articles at all. As follows:
+Strong endings are used when there are <u>no articles at all.</u> As follows:
 
 | Strong<br>endings | Masculine | Neutral | Feminine | Plural |
 | --- | --- | --- | --- | --- |
