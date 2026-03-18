@@ -10,21 +10,16 @@ Like: Haben, spazieren, aufstehen, essen, werden, beginnen, sein.
 
 ### 1.1 Verb Konjugation im Präsens (Regelmäßig):
 
-PERSONAL
-PRONOMEN
+# Personal Pronomen – Verb: *wohnen*
 
-VERB (WOHNEN)
-
-| ICH (I) | Wohne |
-| --- | --- |
-|   | (-e) |
-| DU (YOU) | Wohnst<br>(-st) |
-| ER/SIE/ES/MAN | Wohnt |
-| HE/SHE/IT | (-t) |
-| WIR (WE) | Wohnen<br>(-en) |
-| IHR (YOU PL.) | Wohnt |
-|   | (-t) |
-| SIE/SIE<br>(YOU FORMAL)/(THEY) | Wohnen<br>(-en) |
+| Personal Pronoun | Meaning | Conjugation (wohnen) | Ending |
+|---|---|---|---|
+| ich | I | wohne | (-e) |
+| du | you (singular, informal) | wohnst | (-st) |
+| er / sie / es / man | he / she / it / one | wohnt | (-t) |
+| wir | we | wohnen | (-en) |
+| ihr | you (plural, informal) | wohnt | (-t) |
+| Sie / sie | you (formal) / they | wohnen | (-en) |
 
 > Man means (one) and it always takes the same verb conjugation as (er and sie).
 
@@ -35,36 +30,26 @@ regular verbs.
 
 Eg. Sein (to be):
 
-| Ich | bin |
-| --- | --- |
-| Du | bist |
-| Er/sie/es | ist |
+| ich | bin |
+| du | bist |
+| er / sie / es | ist |
 | wir | sind |
 | ihr | seid |
-| Sie/sie | sind |
+| Sie / sie | sind |
 
 ### 1.3 Modalverben:
 
 Modalverben are: Dürfen (allowed to/may), Können (can), Mögen (to like), Sollen
 (ought to), Müssen (must), Wollen & Möchten(to want).
 
-| Personal<br>Pronomen | Dürfen | Können | Mögen |
-| --- | --- | --- | --- |
-| Ich | Darf | Kann | Mag |
-| Du | Darfst | Kannst | Magst |
-| Er/sie/es | Darf | Kann | Mag |
-| wir | Dürfen | Können | Mögen |
-| ihr | Dürft | Könnt | Mögt |
-| Sie/sie | Dürfen | Können | Mögen |
-
-| Personal<br>Pronomen | Wollen | Sollen | Müssen |
-| --- | --- | --- | --- |
-| Ich | will | soll | muss |
-| Du | willst | sollst | musst |
-| Er/sie/es | will | soll | muss |
-| wir | wollen | sollen | müssen |
-| ihr | wollt | sollt | müsst |
-| Sie/sie | wollen | sollen | müssen |
+| Personal Pronomen | dürfen | können | mögen | wollen | sollen | müssen |
+|---|---|---|---|---|---|---|
+| ich | darf | kann | mag | will | soll | muss |
+| du | darfst | kannst | magst | willst | sollst | musst |
+| er / sie / es | darf | kann | mag | will | soll | muss |
+| wir | dürfen | können | mögen | wollen | sollen | müssen |
+| ihr | dürft | könnt | mögt | wollt | sollt | müsst |
+| Sie / sie | dürfen | können | mögen | wollen | sollen | müssen |
 
 > Möchten is conjugated like a regular verb.
 
@@ -112,7 +97,6 @@ The book the books
 - Indefinite articles refer to an unspecific object. (a/an)
 
 | Masculine | Ein |
-| --- | --- |
 | Feminine | Eine |
 | Neutral | Ein |
 
@@ -123,7 +107,6 @@ The book the books
 noun:
 
 | Masculine | Kein |
-| --- | --- |
 | Feminine | Keine |
 | Neutral | Kein |
 | Plural | Keine |
@@ -136,9 +119,7 @@ noun:
 | --- | --- | --- |
 | Ich | Mein | Meine |
 | Du | Dein | Deine |
-
 | Er/es | Sein | Seine |
-| --- | --- | --- |
 | Wir | Unser | Unsere |
 | Ihr | euer | eure |
 | Sie/sie/sie | Ihr/ihr | Ihre/ihre |
@@ -176,9 +157,7 @@ Personal & (masc.) possessive pronouns in accusative:
 | Er | ihn | seinen |
 | sie | sie | ihren |
 | Es | es | seinen |
-
 | Wir | uns | unseren |
-| --- | --- | --- |
 | ihr | euch | eueren |
 | Sie/sie | sie | Ihren/ihren |
 
