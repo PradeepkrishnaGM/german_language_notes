@@ -73,7 +73,7 @@ Impersonal verbs are verbs that can **only** be used with 'es'.
 
 - Es schneit schon den ganzen Tag. (_It snowed the entire day._)
 
-- Es donnert bereits. (There's a thunderstorm already.)
+- Es donnert bereits. (_There's a thunderstorm already._)
 
 ## 2 Nouns
 
