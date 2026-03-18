@@ -67,13 +67,13 @@ P.S: Verbs are always in the second position in a normal sentence.
 
 ### 1.5 Unpersönliche Verben:
 
-Impersonal verbs are verbs that can only be used with 'es'.
+Impersonal verbs are verbs that can **only** be used with 'es'.
 
 **Ex:** Es regnet, es schneit, es gefällt, es donnert, .....
 
-Es schneit schon den ganzen Tag. (It snowed the entire day.)
+- Es schneit schon den ganzen Tag. (_It snowed the entire day._)
 
-Es donnert bereits. (There's a thunderstorm already.)
+- Es donnert bereits. (There's a thunderstorm already.)
 
 ## 2 Nouns
 
