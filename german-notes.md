@@ -79,7 +79,7 @@ Impersonal verbs are verbs that can **only** be used with 'es'.
 
 ### 2.1 Bestimmte Artikel (Nominativ):
 
-- Definite articles refer to a *specific* object. (The)
+- Definite articles refer to a **specific** object. (The)
 
 > Not all nouns follow these rules but a lot do.
 
@@ -95,26 +95,30 @@ Impersonal verbs are verbs that can **only** be used with 'es'.
 
 ### 2.2 Unbestimmte Artikel (Nominativ):
 
-- Indefinite articles refer to an *unspecific* object. (a/an)
+- Indefinite articles refer to an **unspecific** object. (a/an)
 
-| Masculine | Ein |
-| Feminine | Eine |
-| Neutral | Ein |
+| Gender | Indefinite Article |
+|---|---|
+| Masculine | ein |
+| Feminine | eine |
+| Neuter | ein |
 
 > There is no indefinite article for plural because you can't say "a dogs".
 
 ### 2.3 Negation:
 
-- "*Kein*" is used to negate a noun and changes according to the gender of the noun:
+- "**Kein**" is used to negate a noun and changes according to the gender of the noun:
 
-| Masculine | Kein |
-| Feminine | Keine |
-| Neutral | Kein |
-| Plural | Keine |
+| Gender | Negative Article |
+|---|---|
+| Masculine | kein |
+| Feminine | keine |
+| Neuter | kein |
+| Plural | keine |
 
 ### 2.4 Possessivpronomen:
 
-- To express possession of a noun,
+- To express possession of a noun
 
 | Pronoun | Masc./Neut. | Fem./Pl. |
 | --- | --- | --- |
