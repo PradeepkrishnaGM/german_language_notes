@@ -79,34 +79,33 @@ Impersonal verbs are verbs that can **only** be used with 'es'.
 
 ### 2.1 Bestimmte Artikel (Nominativ):
 
-- Definite articles refer to a specific object. (The)
+- Definite articles refer to a *specific* object. (The)
 
 > Not all nouns follow these rules but a lot do.
 
-| Der (masc.) | Males (Lehrer)<br>Days, months * seasons.<br>Nouns ending with -ling,<br>-or, -us, -ant, -en |
-| --- | --- |
-| Die (fem.) | Females (Lehrerin)<br>Most flowers and fruits.<br>Nouns ending with -ei, -<br>heit, -keit, -schaft, -ung, -<br>tät, -ik, -ur, -ion, -ie, -e. |
+| Article | Gender | Common Usage |
+|---|---|---|
+| **der** | Masculine | Males (Lehrer)<br>Days, months, and seasons<br>Nouns ending in **-ling, -or, -us, -ant, -en** |
+| **die** | Feminine | Females (Lehrerin)<br>Most flowers and fruits<br>Nouns ending in **-ei, -heit, -keit, -schaft, -ung, -tät, -ik, -ur, -ion, -ie, -e** |
+| **das** | Neuter | Small children (Baby)<br>Metals<br>Verb infinitives used as nouns (Essen = food)<br>Nouns ending in **-chen, -lein, -ment, -nis, -um, -tum** |
 
-| Das<br>(neutral) | Small children (Baby).<br>Metals. Verb infinitives as<br>nouns (Essen as food).<br>Nouns ending with -chen,<br>-lein, -ment, -nis, -um, -<br>tum. |
-| --- | --- |
+> Plurals always take "Die"
 
-**Ex:** das Buch die Bücher
-
-The book the books
+**Ex:** das Buch (The book) → die Bücher (the books)
 
 ### 2.2 Unbestimmte Artikel (Nominativ):
 
-- Indefinite articles refer to an unspecific object. (a/an)
+- Indefinite articles refer to an *unspecific* object. (a/an)
 
 | Masculine | Ein |
 | Feminine | Eine |
 | Neutral | Ein |
 
+> There is no indefinite article for plural because you can't say "a dogs".
+
 ### 2.3 Negation:
 
-- "Kein" is used to negate a noun and changes according to the gender of the
-
-noun:
+- "*Kein*" is used to negate a noun and changes according to the gender of the noun:
 
 | Masculine | Kein |
 | Feminine | Keine |
@@ -115,7 +114,7 @@ noun:
 
 ### 2.4 Possessivpronomen:
 
-> To express possession of a noun,
+- To express possession of a noun,
 
 | Pronoun | Masc./Neut. | Fem./Pl. |
 | --- | --- | --- |
